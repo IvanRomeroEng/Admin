@@ -1,1 +1,97 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--logos" width="31.88" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 257"><defs><linearGradient id="IconifyId1813088fe1fbc01fb466" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%"><stop offset="0%" stop-color="#41D1FF"></stop><stop offset="100%" stop-color="#BD34FE"></stop></linearGradient><linearGradient id="IconifyId1813088fe1fbc01fb467" x1="43.376%" x2="50.316%" y1="2.242%" y2="89.03%"><stop offset="0%" stop-color="#FFEA83"></stop><stop offset="8.333%" stop-color="#FFDD35"></stop><stop offset="100%" stop-color="#FFA800"></stop></linearGradient></defs><path fill="url(#IconifyId1813088fe1fbc01fb466)" d="M255.153 37.938L134.897 252.976c-2.483 4.44-8.862 4.466-11.382.048L.875 37.958c-2.746-4.814 1.371-10.646 6.827-9.67l120.385 21.517a6.537 6.537 0 0 0 2.322-.004l117.867-21.483c5.438-.991 9.574 4.796 6.877 9.62Z"></path><path fill="url(#IconifyId1813088fe1fbc01fb467)" d="M185.432.063L96.44 17.501a3.268 3.268 0 0 0-2.634 3.014l-5.474 92.456a3.268 3.268 0 0 0 3.997 3.378l24.777-5.718c2.318-.535 4.413 1.507 3.936 3.838l-7.361 36.047c-.495 2.426 1.782 4.5 4.151 3.78l15.304-4.649c2.372-.72 4.652 1.36 4.15 3.788l-11.698 56.621c-.732 3.542 3.979 5.473 5.943 2.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505 4.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z"></path></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="Layer_1"
+    style="enable-background:new -0.258 -0.548 123.547 123.539"
+    xml:space="preserve"
+    viewBox="-0.258 -0.548 123.547 123.539"
+    version="1.1"
+    y="0px"
+    x="0px"
+  >
+<g
+    >
+	<path
+        style="fill:#231F20"
+        d="m110.1 122.98c8.156 0 14.75-6.617 14.75-14.773v-94.011c0-8.156-6.594-14.773-14.75-14.773h-94.014c-8.156 0-14.773 6.617-14.773 14.773v94.008c0 8.156 6.617 14.773 14.773 14.773h94.014z"
+    />
+	<path
+        d="m16.086 1.926c-6.773 0-12.273 5.508-12.273 12.273v94.008c0 6.766 5.5 12.281 12.273 12.281h94.016c6.75 0 12.242-5.516 12.242-12.281v-94.011c0-6.766-5.492-12.273-12.242-12.273h-94.014z"
+    />
+	<polygon
+        style="fill:#FFFFFF"
+        points="49.578 99.074 74.898 99.074 74.875 73.793 100.22 73.793 100.22 48.449 74.875 48.449 74.898 23.152 49.578 23.152 49.602 48.449 24.266 48.449 24.266 73.793 49.602 73.793"
+    />
+</g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >NPS map pictographs part 1</dc:title
+        ><dc:date
+          >2008-01-18T03:02:19</dc:date
+        ><dc:description
+          >First set of 4 sets of map pictographs for U.S. national park maps.  PD US Government - National Park Service, U.S. Dept. of the Interior&#13;\n&#13;\nrest of set: &#13;\nhttp://openclipart.org/media/files/johnny_automatic/6754&#13;\nhttp://openclipart.org/media/files/johnny_automatic/6757&#13;\nhttp://openclipart.org/media/files/johnny_automatic/6765</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/11166/nps-map-pictographs-part-1-by-johnny_automatic-11166</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >johnny_automatic</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >cartography</rdf:li
+            ><rdf:li
+              >externalsource</rdf:li
+            ><rdf:li
+              >map</rdf:li
+            ><rdf:li
+              >park</rdf:li
+            ><rdf:li
+              >pictograph</rdf:li
+            ><rdf:li
+              >sign</rdf:li
+            ><rdf:li
+              >symbol</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>
