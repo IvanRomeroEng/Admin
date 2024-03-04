@@ -1,7 +1,9 @@
 
 const ListadoPacientes = () => {
   return (
-    <h2>ListadoPacientes</h2>
+    <div className="md:w-1/2 lg:md-3/5">
+      ListadoPacientes
+    </div>
   )
 }
 

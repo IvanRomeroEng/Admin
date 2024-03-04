@@ -4,11 +4,13 @@ import Form from "./components/Form"
 function App() {
 
 return (
-    <>
+    <div className="container mx-auto mt-20">
       <Header />
-      <Form/>
-      <ListadoPacientes /> 
-    </>
+      <div className="mt-12 md:flex "> 
+        <Form/>
+        <ListadoPacientes /> 
+      </div>
+    </div>
   )
 }
 
